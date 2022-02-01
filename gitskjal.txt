@@ -3,3 +3,4 @@
 3. git log sýnir öll commits sem er búið að gera, hvenær þær voru gerðar og af hverjum. git checkout leyfir manni að skoða og ferðast á milli mismunandi greina. Git branch leyfir manni að búa til, lista, endurskýra og eyða greinum
 4. Version Control er í stuttu máli það að fylgjast með og sjá um breytingar sem eru gerðar á kóðum
 5. Frammistaða, Git er kraftmikið og öruggt kerfi í samanburði við önnur Version Control forrit. Öryggi, Git er hannað til að sérstaklega viðhalda kóða, allt sem er gert í Git er búið að tryggja öryggi með dulkóða. Sveigjanleiki, Git er þægilegt út af það styður við allskonar þróunarverkflæði og allskonar verkefni hvort sem þau eru lítil eða stór.
+6. Mér finnst að maður ætti að commita þegar maður er kominn með eitthvað nýtt sem maður er búinn að prufa og veit að virkar, þannig ekkert endilega á ákveðnu millibili heldur þegar maður er búinn að skrifa eitthvað sem maður telur vera þess virði til að commita
