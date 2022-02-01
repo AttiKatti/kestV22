@@ -1,0 +1,1 @@
+1. cd- Stendur fyrir Change Directory, það færir mann inn í aðra möppu. ls - gerir fyrir mann lista yfir skjöl og möppur sem tilheyra ákveðinni möppu. pwd - Present Working Directory, segir manni í hvaða möppu maður er staddur. mkdir- Býr til nýja möppu.
