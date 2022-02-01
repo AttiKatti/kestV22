@@ -1,1 +1,1 @@
-1. cd- Stendur fyrir Change Directory, það færir mann inn í aðra möppu. ls - gerir fyrir mann lista yfir skjöl og möppur sem tilheyra ákveðinni möppu. pwd - Present Working Directory, segir manni í hvaða möppu maður er staddur. mkdir- Býr til nýja möppu.
+2. git clone - git clone býr til afrit af einhverju repoi og setur það í aðra möppu. git status - sýnir stöðuna á möppunni sem þú ert staddur í og ,,staging areaið ", þá sérðu hvaða breytingar hafa verið sviðsettar, hvaða breytingar hafa ekki verið sviðsettar og hvaða skjöl eru ekki í umsjón af git.
